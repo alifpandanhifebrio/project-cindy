@@ -1,0 +1,39 @@
+C:\Users\ozoNe-com\AppData\Local\Temporary Projects\KSK Level 3\bin\Debug\KSK Level 3.exe.config
+D:\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\bin\Debug\KSK Level 3.exe.config
+D:\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\bin\Debug\KSK Level 3.exe
+D:\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\bin\Debug\KSK Level 3.pdb
+D:\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\bin\Debug\KSK Level 3.xml
+D:\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\obj\Debug\KSK_Level_3.FormDataPasien.resources
+D:\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\obj\Debug\KSK_Level_3.Resources.resources
+D:\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\obj\Debug\KSK_Level_3.SplashScreen1.resources
+D:\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\obj\Debug\KSK Level 3.vbproj.GenerateResource.Cache
+D:\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\obj\Debug\KSK Level 3.exe
+D:\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\obj\Debug\KSK Level 3.xml
+D:\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\obj\Debug\KSK Level 3.pdb
+D:\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\obj\Debug\KSK_Level_3.FormPetugas.resources
+D:\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\obj\Debug\KSK_Level_3.FormPenyimpanan.resources
+D:\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\obj\Debug\KSK_Level_3.Formpoli.resources
+D:\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\obj\Debug\KSK_Level_3.PrintPenyimpanan.resources
+D:\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\obj\Debug\KSK Level 3.vbprojResolveAssemblyReference.cache
+D:\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\obj\Debug\KSK_Level_3.Lappenyimpanan.resources
+D:\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\obj\Debug\KSK_Level_3.Printpenyimpananpepoli.resources
+D:\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\obj\Debug\KSK_Level_3.Laporanpenyimpananperpoli.resources
+D:\RIRIN JURNEY\KSK RIRIN\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\bin\Debug\KSK Level 3.exe.config
+D:\RIRIN JURNEY\KSK RIRIN\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\obj\Debug\KSK Level 3.exe
+D:\RIRIN JURNEY\KSK RIRIN\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\obj\Debug\KSK Level 3.xml
+D:\RIRIN JURNEY\KSK RIRIN\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\obj\Debug\KSK Level 3.pdb
+D:\RIRIN JURNEY\KSK RIRIN\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\bin\Debug\KSK Level 3.exe
+D:\RIRIN JURNEY\KSK RIRIN\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\bin\Debug\KSK Level 3.pdb
+D:\RIRIN JURNEY\KSK RIRIN\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\bin\Debug\KSK Level 3.xml
+D:\RIRIN JURNEY\KSK RIRIN\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\obj\Debug\KSK Level 3.vbprojResolveAssemblyReference.cache
+D:\RIRIN JURNEY\KSK RIRIN\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\obj\Debug\KSK_Level_3.FormDataPasien.resources
+D:\RIRIN JURNEY\KSK RIRIN\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\obj\Debug\KSK_Level_3.FormPetugas.resources
+D:\RIRIN JURNEY\KSK RIRIN\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\obj\Debug\KSK_Level_3.FormPenyimpanan.resources
+D:\RIRIN JURNEY\KSK RIRIN\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\obj\Debug\KSK_Level_3.Formpoli.resources
+D:\RIRIN JURNEY\KSK RIRIN\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\obj\Debug\KSK_Level_3.Lappenyimpanan.resources
+D:\RIRIN JURNEY\KSK RIRIN\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\obj\Debug\KSK_Level_3.Printpenyimpanan.resources
+D:\RIRIN JURNEY\KSK RIRIN\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\obj\Debug\KSK_Level_3.Printpenyimpananpepoli.resources
+D:\RIRIN JURNEY\KSK RIRIN\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\obj\Debug\KSK_Level_3.Laporanpenyimpananperpoli.resources
+D:\RIRIN JURNEY\KSK RIRIN\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\obj\Debug\KSK_Level_3.Resources.resources
+D:\RIRIN JURNEY\KSK RIRIN\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\obj\Debug\KSK_Level_3.SplashScreen1.resources
+D:\RIRIN JURNEY\KSK RIRIN\21300016_RIRIN OKTAVIA TAMMA\KSK Level 3\KSK Level 3\obj\Debug\KSK Level 3.vbproj.GenerateResource.Cache
